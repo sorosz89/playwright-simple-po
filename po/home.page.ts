@@ -7,6 +7,6 @@ export class Home {
     }
 
     async isTitleVisible(): Promise<boolean> {
-        return this.header.get().isVisible();
+        return this.header.get("title").isVisible();
     }
 }              
