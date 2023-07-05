@@ -1,0 +1,23 @@
+{
+  "name": "playwright-simple-po",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorosz89/playwright-simple-po.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorosz89/playwright-simple-po/issues"
+  },
+  "homepage": "https://github.com/sorosz89/playwright-simple-po#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1",
+    "@types/node": "^20.3.3",
+    "playwright": "^1.35.1"
+  }
+}
